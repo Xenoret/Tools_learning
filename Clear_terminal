@@ -1,0 +1,3 @@
+import os     #Import library
+
+os.system('cls||clear')     # Clear information for terminal Windows and Unix system.
